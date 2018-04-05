@@ -1,7 +1,6 @@
 # Custom ignores
 .vscode
-!src/main.cpp
-src/*
+.DS_Store
 # Prerequisites
 *.d
 
